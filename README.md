@@ -1,6 +1,7 @@
 # Auto Root Server | Local Privilege Escalation By Alexithema
 
 **Deskripsi**
+
 Script ini dibuat untuk mendownload, compile, dan menjalankan berbagai exploit kernel Linux dan privilege escalation berdasarkan daftar CVE. Script ini memudahkan pengetesan exploit secara otomatis dengan logging dan cleanup yang rapi.
 
 ---
